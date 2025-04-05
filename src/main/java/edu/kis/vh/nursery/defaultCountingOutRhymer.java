@@ -1,7 +1,7 @@
 package edu.kis.vh.nursery;
 
 public class defaultCountingOutRhymer {
-
+//Zadanie 15: Projekt jest poprawny - wszystkie testy jednostkowe przechodzą.
     private int[] nums = new int[12];
 
     public int total = -1;
